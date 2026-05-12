@@ -1,0 +1,7 @@
+git init
+git add .gitignore
+git add src/
+git commit -m "Initial commit: Project structure and core classes"
+git add src/
+git commit -m "Complete Part A and B: Payment system complete"
+git log --oneline > git_log.txt
